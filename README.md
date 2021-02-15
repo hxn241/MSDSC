@@ -1,2 +1,3 @@
 # MSDSC
-* Contents and notebooks about all involve DSC.
+* Some examples and exercices about different subjects involved in Data Science.
+
